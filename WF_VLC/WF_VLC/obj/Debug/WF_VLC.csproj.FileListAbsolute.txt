@@ -1,0 +1,17 @@
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\bin\Debug\WF_VLC.exe.config
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\bin\Debug\WF_VLC.exe
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\bin\Debug\WF_VLC.pdb
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\bin\Debug\Vlc.DotNet.Core.dll
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\bin\Debug\Vlc.DotNet.Forms.dll
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\obj\Debug\WF_VLC.csproj.AssemblyReference.cache
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\obj\Debug\WF_VLC.csproj.SuggestedBindingRedirects.cache
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\obj\Debug\WF_VLC.Form1.resources
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\obj\Debug\WF_VLC.Properties.Resources.resources
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\obj\Debug\WF_VLC.csproj.GenerateResource.cache
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\obj\Debug\WF_VLC.csproj.CoreCompileInputs.cache
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\obj\Debug\WF_VLC.csproj.CopyComplete
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\obj\Debug\WF_VLC.exe
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\obj\Debug\WF_VLC.pdb
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\bin\Debug\DirectShowLib.dll
+C:\SourceCode\No Versionados\WF_VLC\WF_VLC\bin\Debug\DirectShowLib.pdb
